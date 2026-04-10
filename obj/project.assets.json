@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agust\\OneDrive\\Desktop\\Tarea prog3\\Tarea prog3.csproj",
-      "projectName": "Tarea prog3",
-      "projectPath": "C:\\Users\\agust\\OneDrive\\Desktop\\Tarea prog3\\Tarea prog3.csproj",
+      "projectUniqueName": "C:\\Users\\agust\\OneDrive\\Desktop\\Tarea prog3\\Tareaprog3.csproj",
+      "projectName": "Tareaprog3",
+      "projectPath": "C:\\Users\\agust\\OneDrive\\Desktop\\Tarea prog3\\Tareaprog3.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\agust\\OneDrive\\Desktop\\Tarea prog3\\obj\\",
       "projectStyle": "PackageReference",
