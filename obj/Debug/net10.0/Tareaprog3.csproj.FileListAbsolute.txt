@@ -1,0 +1,5 @@
+C:\Users\agust\OneDrive\Desktop\Tarea prog3\obj\Debug\net10.0\Tareaprog3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\OneDrive\Desktop\Tarea prog3\obj\Debug\net10.0\Tareaprog3.AssemblyInfoInputs.cache
+C:\Users\agust\OneDrive\Desktop\Tarea prog3\obj\Debug\net10.0\Tareaprog3.AssemblyInfo.cs
+C:\Users\agust\OneDrive\Desktop\Tarea prog3\obj\Debug\net10.0\Tareaprog3.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive\Desktop\Tarea prog3\obj\Debug\net10.0\Tareaprog3.sourcelink.json
